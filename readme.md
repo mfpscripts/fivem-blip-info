@@ -80,3 +80,6 @@ exports['blip_info']:AddBlipInfoIcon(blip, "Info Blip", "wew", 16, 0, true)
 Do what you want, except:
 
  - Re-distribute a non-remixed version of this resource outside of the target platform
+
+## Support
+mfpscripts is using the Exports but not provided support to this resource. They just forked it to got a version that still works. 
